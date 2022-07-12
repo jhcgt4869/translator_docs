@@ -8,7 +8,8 @@
 - 账号系统，能够自动云端保存配置  
 
 ## 使用指南
-![快速使用指南](/user_manual.md)
+![快速使用指南](/user_manual.md)  
+
 详细文档：https://docs2.ayano.top/#/4.0/basic/start
 
 ## 软件页面截图
